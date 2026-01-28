@@ -1,0 +1,19 @@
+# Build directories
+build/
+cmake-build-*/
+# Binary files
+*.o
+*.a
+*.so
+*.exe
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+# PDF files (如果不想上传)
+*.pdf
+# Temporary files
+*.tmp
+*.log
