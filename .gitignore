@@ -17,3 +17,6 @@ cmake-build-*/
 # Temporary files
 *.tmp
 *.log
+development_roadmap.md
+kv_storage_engine_project_plan.md
+phase1_detailed_guide.md
